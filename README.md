@@ -74,14 +74,6 @@ Este projeto ajuda a praticar conceitos importantes de desenvolvimento front-end
 - Organização de código JavaScript
 - Separação entre HTML, CSS e JavaScript
 
-## Deploy
-
-Como o projeto é estático, ele pode ser publicado facilmente em:
-
-- GitHub Pages
-- Netlify
-- Vercel
-
 ## Autor
 
 Feito por Luiz Gustavo
