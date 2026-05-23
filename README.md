@@ -1,18 +1,8 @@
 # Todo App
 
-Aplicação web de lista de tarefas desenvolvida com **HTML, CSS e JavaScript puro**. O projeto tem uma interface moderna, responsiva e minimalista, ideal para compor o portfólio de um programador júnior.
+Aplicação web de lista de tarefas desenvolvida com **HTML, CSS e JavaScript puro**. O projeto tem uma interface moderna, responsiva e minimalista.
 
 O sistema permite criar tarefas, marcar como concluídas, excluir itens, filtrar por status e manter os dados salvos no navegador usando **LocalStorage**.
-
-## Demonstração
-
-> Adicione aqui o link do projeto publicado.
-
-Exemplo:
-
-```text
-https://seu-usuario.github.io/todo-app/
-```
 
 ## Tecnologias usadas
 
@@ -71,22 +61,6 @@ Você também pode usar a extensão **Live Server** no VS Code para rodar o proj
 4. Marque a caixa de seleção para concluir uma tarefa.
 5. Clique no botão **×** para excluir uma tarefa.
 6. Use o botão no canto superior direito para alternar entre modo claro e escuro.
-
-## Screenshots
-
-Adicione aqui imagens do projeto funcionando.
-
-### Tela inicial
-
-> Inserir screenshot da tela inicial.
-
-### Tarefas cadastradas
-
-> Inserir screenshot com tarefas cadastradas.
-
-### Modo escuro
-
-> Inserir screenshot do modo escuro.
 
 ## Aprendizados
 
